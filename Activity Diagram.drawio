@@ -1,0 +1,179 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
+  <diagram name="Страница-1" id="Jp3uQFHnvsv5133mlFos">
+    <mxGraphModel dx="4168" dy="2108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-1" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" value="Начало процесса" vertex="1">
+          <mxGeometry height="39" width="150" x="1441" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Клиент создает заказ через сайт" vertex="1">
+          <mxGeometry height="78" width="260" x="1387" y="379" as="geometry" />
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Система проверяет наличие товаров на складе" vertex="1">
+          <mxGeometry height="102" width="260" x="1387" y="507" as="geometry" />
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Заказ подтверждается" vertex="1">
+          <mxGeometry height="54" width="227" x="1550" y="731" as="geometry" />
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Отправить уведомление клиенту с предложением изменить заказ" vertex="1">
+          <mxGeometry height="102" width="260" x="1240" y="707" as="geometry" />
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-6" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" value="Конец процесса" vertex="1">
+          <mxGeometry height="39" width="142" x="1299" y="879" as="geometry" />
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Клиент выбирает способ оплаты" vertex="1">
+          <mxGeometry height="78" width="260" x="1533" y="859" as="geometry" />
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Система проверяет платеж через платежный шлюз" vertex="1">
+          <mxGeometry height="102" width="260" x="1412" y="1011" as="geometry" />
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Склад начинает сборку заказа" vertex="1">
+          <mxGeometry height="78" width="260" x="1688" y="1199" as="geometry" />
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Отправить уведомление клиенту с предложением повторить оплату" vertex="1">
+          <mxGeometry height="102" width="260" x="1339" y="1187" as="geometry" />
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-11" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" value="Конец процесса" vertex="1">
+          <mxGeometry height="39" width="142" x="1398" y="1411" as="geometry" />
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-12" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;" value="Способ доставки?" vertex="1">
+          <mxGeometry height="184" width="184" x="1726" y="1339" as="geometry" />
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Система отправляет заявку в службу доставки" vertex="1">
+          <mxGeometry height="78" width="260" x="1533" y="1609" as="geometry" />
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-14" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Отправить уведомление клиенту о готовности заказа" vertex="1">
+          <mxGeometry height="102" width="260" x="1843" y="1597" as="geometry" />
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Курьер доставляет товар клиенту" vertex="1">
+          <mxGeometry height="78" width="260" x="1533" y="1749" as="geometry" />
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-16" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" value="Конец процесса" vertex="1">
+          <mxGeometry height="39" width="142" x="1902" y="1768" as="geometry" />
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-17" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Клиент подтверждает получение" vertex="1">
+          <mxGeometry height="78" width="260" x="1533" y="1877" as="geometry" />
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-18" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Система отправляет электронный чек" vertex="1">
+          <mxGeometry height="78" width="260" x="1533" y="2005" as="geometry" />
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-19" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" value="Конец процесса" vertex="1">
+          <mxGeometry height="39" width="142" x="1592" y="2133" as="geometry" />
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-20" edge="1" parent="1" source="nT0HQ_rBREp0gM-Hys_7-1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="nT0HQ_rBREp0gM-Hys_7-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-21" edge="1" parent="1" source="nT0HQ_rBREp0gM-Hys_7-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="nT0HQ_rBREp0gM-Hys_7-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-22" edge="1" parent="1" source="nT0HQ_rBREp0gM-Hys_7-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="nT0HQ_rBREp0gM-Hys_7-4" value="Все товары в наличии">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1663" y="658" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-23" edge="1" parent="1" source="nT0HQ_rBREp0gM-Hys_7-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="nT0HQ_rBREp0gM-Hys_7-5" value="Некоторые товары недоступны">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1370" y="658" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-24" edge="1" parent="1" source="nT0HQ_rBREp0gM-Hys_7-5" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" target="nT0HQ_rBREp0gM-Hys_7-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-25" edge="1" parent="1" source="nT0HQ_rBREp0gM-Hys_7-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="nT0HQ_rBREp0gM-Hys_7-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-26" edge="1" parent="1" source="nT0HQ_rBREp0gM-Hys_7-7" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="nT0HQ_rBREp0gM-Hys_7-8" value="Онлайн">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1542" y="974" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-27" edge="1" parent="1" source="nT0HQ_rBREp0gM-Hys_7-7" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=1;entryX=0.57;entryY=0;rounded=0;" target="nT0HQ_rBREp0gM-Hys_7-9" value="Оплата при доставке">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1859" y="974" />
+              <mxPoint x="1859" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-28" edge="1" parent="1" source="nT0HQ_rBREp0gM-Hys_7-8" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=1;entryX=0.29;entryY=0;rounded=0;" target="nT0HQ_rBREp0gM-Hys_7-9" value="Платеж успешен">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1697" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-29" edge="1" parent="1" source="nT0HQ_rBREp0gM-Hys_7-8" style="curved=1;startArrow=none;endArrow=block;exitX=0.34;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="nT0HQ_rBREp0gM-Hys_7-10" value="Платеж отклонен">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1469" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-30" edge="1" parent="1" source="nT0HQ_rBREp0gM-Hys_7-10" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" target="nT0HQ_rBREp0gM-Hys_7-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-31" edge="1" parent="1" source="nT0HQ_rBREp0gM-Hys_7-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="nT0HQ_rBREp0gM-Hys_7-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-32" edge="1" parent="1" source="nT0HQ_rBREp0gM-Hys_7-12" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=0;rounded=0;" target="nT0HQ_rBREp0gM-Hys_7-13" value="Курьерская служба">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1663" y="1560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-33" edge="1" parent="1" source="nT0HQ_rBREp0gM-Hys_7-12" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.91;entryX=0.5;entryY=0;rounded=0;" target="nT0HQ_rBREp0gM-Hys_7-14" value="Самовывоз">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1973" y="1560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-34" edge="1" parent="1" source="nT0HQ_rBREp0gM-Hys_7-13" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="nT0HQ_rBREp0gM-Hys_7-15" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-35" edge="1" parent="1" source="nT0HQ_rBREp0gM-Hys_7-14" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" target="nT0HQ_rBREp0gM-Hys_7-16" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-36" edge="1" parent="1" source="nT0HQ_rBREp0gM-Hys_7-15" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="nT0HQ_rBREp0gM-Hys_7-17" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-37" edge="1" parent="1" source="nT0HQ_rBREp0gM-Hys_7-17" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="nT0HQ_rBREp0gM-Hys_7-18" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nT0HQ_rBREp0gM-Hys_7-38" edge="1" parent="1" source="nT0HQ_rBREp0gM-Hys_7-18" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" target="nT0HQ_rBREp0gM-Hys_7-19" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
